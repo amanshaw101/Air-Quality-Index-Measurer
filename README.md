@@ -1,9 +1,17 @@
 # Air Quality Index Measurer
-An Air Quality Index (AQI) is a number used to measure the air pollution levels and communicate it to the population.
-This model calculate the air quality index and predicts whether the conditions are good or bad.
-This model also gives steps to stop the pollution depending upon the condition and also provides the location of the areas on the map with higher rates of AQI.
-THINGS USED
-PYTHON PROGRAMMING LANGUAGE, JUPYTER NOTEBOOK FORMAT, DATABASE FROM “data.gov.in”. (FULL LINK:-https://data.gov.in/resource/real-time-air-quality-index-various-locations)Can be downloaded or used as an api, 
-STREAMLIT PYTHON LIBRARY FOR MAKING GUI TEMPLATE
 
+## 📌 About the Project
+The **Air Quality Index Measurer** is a machine learning-based project designed to predict air quality levels using regression techniques. It analyzes environmental factors and provides an accurate Air Quality Index (AQI) score, helping users assess pollution levels in a given region. 
 
+## 🚀 Features
+- **Predicts Air Quality Index (AQI)** based on environmental parameters.
+- Utilizes **Linear Regression and Random Forest Regression** for enhanced accuracy.
+- **Data visualization** for insightful analysis of air pollution trends.
+- **User-friendly interface** for inputting environmental data and obtaining AQI predictions.
+
+## 🛠️ Tech Stack
+- **Python** (for backend logic and data processing)
+- **Machine Learning:** Scikit-Learn (for model training and evaluation)
+- **Data Processing:** Pandas, NumPy (for handling datasets)
+- **Visualization:** Matplotlib, Seaborn (for graphical representation of air quality trends)
+- **Jupyter Notebook** (for model development and experimentation)
